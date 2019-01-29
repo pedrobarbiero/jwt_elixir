@@ -1,5 +1,8 @@
 # jwt_elixir
 
+Uso de Json Web Token, seguindo o tutorial:
+https://medium.com/@njwest/jwt-auth-with-an-elixir-on-phoenix-1-3-guardian-api-and-react-native-mobile-app-1bd00559ea51
+
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
