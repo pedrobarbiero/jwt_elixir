@@ -1,4 +1,4 @@
-# MyApi
+# jwt_elixir
 
 To start your Phoenix server:
 
